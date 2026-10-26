@@ -1,0 +1,6 @@
+/bin/
+/docs/
+*.o
+*.log
+
+*.md
